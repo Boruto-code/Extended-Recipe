@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "minecraft:redstone"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "minecraft:stone"
+    }
+  },
+  "pattern": [
+    "A A",
+    "BAB",
+    "CCC"
+  ],
+  "result": {
+    "id": "minecraft:repeater",
+    "count": 1
+  }
+}

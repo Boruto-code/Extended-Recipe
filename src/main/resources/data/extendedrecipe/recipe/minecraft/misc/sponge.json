@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "B": {
+      "item": "minecraft:yellow_dye"
+    },
+    "C": {
+      "item": "minecraft:pufferfish"
+    },
+    "D": {
+      "item": "minecraft:prismarine_crystals"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "DCD",
+    "ABA"
+  ],
+  "result": {
+    "id": "minecraft:sponge",
+    "count": 1
+  }
+}

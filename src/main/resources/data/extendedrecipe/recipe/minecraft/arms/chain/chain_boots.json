@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": [
+      {
+        "item": "minecraft:iron_nugget"
+      }
+    ]
+  },
+  "pattern": [
+    "A A",
+    "A A"
+  ],
+  "result": {
+    "id": "minecraft:chainmail_boots",
+    "count": 1
+  }
+}

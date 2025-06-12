@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "minecraft:echo_shard"
+    },
+    "B": {
+      "item": "minecraft:sculk"
+    },
+    "C": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "pattern": [
+    " C ",
+    "CAC",
+    "BBB"
+  ],
+  "result": {
+    "id": "minecraft:calibrated_sculk_sensor",
+    "count": 1
+  }
+}

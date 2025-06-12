@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": [
+      {
+        "item": "minecraft:iron_nugget"
+      }
+    ]
+  },
+  "pattern": [
+    "AAA",
+    "A A",
+    "A A"
+  ],
+  "result": {
+    "id": "minecraft:chainmail_leggings",
+    "count": 1
+  }
+}

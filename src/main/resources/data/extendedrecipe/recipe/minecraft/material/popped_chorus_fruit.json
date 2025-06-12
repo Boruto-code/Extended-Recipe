@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:smelting",
+    "cookingtime": 100,
+    "experience": 0.1,
+    "ingredient": {
+        "item": "minecraft:shulker_shell"
+    },
+    "result": {
+        "id": "minecraft:popped_chorus_fruit"
+    }
+}

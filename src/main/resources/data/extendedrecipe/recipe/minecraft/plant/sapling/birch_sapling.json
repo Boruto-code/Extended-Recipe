@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "minecraft:birch_leaves"
+    },
+    "B": {
+      "item": "minecraft:bone_meal"
+    },
+    "C": {
+      "item": "minecraft:dead_bush"
+    }
+  },
+  "pattern": [
+    "ABA",
+    " C "
+  ],
+  "result": {
+    "id": "minecraft:birch_sapling",
+    "count": 1
+  }
+}

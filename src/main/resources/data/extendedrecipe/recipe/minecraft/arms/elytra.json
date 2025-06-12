@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "minecraft:ender_eye"
+    },
+    "B": {
+      "item": "minecraft:shulker_shell"
+    },
+    "C": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "D": {
+      "item": "minecraft:chorus_flower"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "CDC",
+    "C C"
+  ],
+  "result": {
+    "id": "minecraft:elytra",
+    "count": 1
+  }
+}

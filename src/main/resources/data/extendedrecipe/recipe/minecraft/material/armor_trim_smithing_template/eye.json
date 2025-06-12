@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "minecraft:end_stone"
+    },
+    "B": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "id": "minecraft:eye_armor_trim_smithing_template",
+    "count": 1
+  }
+}
