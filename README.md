@@ -4,6 +4,35 @@
 
 各种不同的配方！马铠配方、命名牌配方、不死图腾配方、附魔金苹果配方...（还有更多！）你应该下载它！
 
+## Q & A
+Q: Extra Recipe 的手册呢？
+
+A: 暂时没有添加。
+
+Q: 我应该如何反馈 Bug？
+
+A: 请在 Github 提出一个 [Issue](https://github.com/Boruto-code/Extended-Recipe/issues)。
+
+## 配方请求
+添加配方请在 Github 提出一个 [Issue](https://github.com/Boruto-code/Extended-Recipe/issues)，或向我的 [Bilibili 主页](https://space.bilibili.com/35040892) 私信。
+
+### 格式
+
+#### 有序合成
+
+A：金块 B：苹果
+
+"AAA"
+
+"ABA"
+
+"AAA"
+
+#### 其它配方
+
+8 x 金块 + 1 x 苹果 = 1 x 金苹果
+
+
 祝你玩得开心~
 
 ---
