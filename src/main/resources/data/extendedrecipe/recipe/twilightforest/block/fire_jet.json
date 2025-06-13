@@ -1,31 +1,28 @@
 {
     "type": "minecraft:crafting_shaped",
-  
     "pattern":
     [
-      "323",
-      "212",
-      "323"
+      "CBC",
+      "BAB",
+      "CBC"
     ],
-  
     "key":
     {
-      "1":
+      "A":
       {
         "item": "minecraft:grass"
       },
-      "2":
+      "B":
       {
         "type": "minecraft:coal"
       },
-      "3":
+      "C":
       {
         "item": "minecraft:flint_and_steel"
       }
     },
-  
     "result":
     {
-      "item": "twilightforest:fire_jet"
+      "id": "twilightforest:fire_jet"
     }
   }

@@ -1,28 +1,25 @@
 {
   "type": "minecraft:crafting_shaped",
-
   "pattern":
   [
-    " 2 ",
-    "212",
-    " 2 "
+    " B ",
+    "BAB",
+    " B "
   ],
-
   "key":
   {
-    "1":
+    "A":
     {
       "item": "minecraft:snowball"
     },
-    "2":
+    "B":
     {
       "item": "minecraft:packed_ice"
     }
   },
-
   "result":
   {
-    "item": "twilightforest:ice_bomb",
+    "id": "twilightforest:ice_bomb",
     "count": 4
   }
 }

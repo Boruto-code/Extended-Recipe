@@ -1,32 +1,29 @@
 {
     "type": "minecraft:crafting_shaped",
-  
     "pattern":
     [
-      "323",
-      "212",
-      "323"
+      "CBC",
+      "BAB",
+      "CBC"
     ],
-  
     "key":
     {
-      "1":
+      "A":
       {
         "item": "twilightforest:fiery_tears"
       },
-      "2":
+      "B":
       {
         "item": "twilightforest:carminite"
       },
-      "3":
+      "C":
       {
         "item": "twilightforest:tower_wood",
         "data": 1
       }
     },
-  
     "result":
     {
-      "item": "twilightforest:tower_device"
+      "id": "twilightforest:tower_device"
     }
   }

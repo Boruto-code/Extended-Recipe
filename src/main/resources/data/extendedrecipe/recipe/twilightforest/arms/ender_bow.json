@@ -1,28 +1,25 @@
 {
   "type": "minecraft:crafting_shaped",
-
   "pattern":
   [
-    " 1 ",
-    "121",
-    " 1 "
+    " A ",
+    "ABA",
+    " A "
   ],
-
   "key":
   {
-    "1":
+    "A":
     {
       "item": "minecraft:ender_pearl"
     },
-    "2":
+    "B":
     {
       "item": "minecraft:bow"
     }
   },
-
   "result":
   {
-    "item": "twilightforest:ender_bow",
+    "id": "twilightforest:ender_bow",
     "count": 1
   }
 }

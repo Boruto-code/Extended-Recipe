@@ -1,7 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
   "result": {
-    "item": "ae2:fluix_smart_cable",
+    "id": "ae2:fluix_smart_cable",
     "count": 1
   },
   "ingredients": [

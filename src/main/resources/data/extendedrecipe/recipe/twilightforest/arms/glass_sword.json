@@ -1,28 +1,25 @@
 {
   "type": "minecraft:crafting_shaped",
-
   "pattern":
   [
-    "2",
-    "2",
-    "1"
+    "B",
+    "B",
+    "A"
   ],
-
   "key":
   {
-    "1":
+    "A":
     {
       "item": "minecraft:golden_sword"
     },
-    "2":
+    "B":
     {
       "item": "minecraft:glass_pane"
     }
   },
-
   "result":
   {
-    "item": "twilightforest:glass_sword",
+    "id": "twilightforest:glass_sword",
     "count": 1
   }
 }

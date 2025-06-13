@@ -1,28 +1,25 @@
 {
   "type": "minecraft:crafting_shaped",
-
   "pattern":
   [
-    "  1",
-    " 2 ",
-    "2  "
+    "  A",
+    " B ",
+    "B  "
   ],
-
   "key":
   {
-    "1":
+    "A":
     {
       "item": "minecraft:ender_pearl"
     },
-    "2":
+    "B":
     {
       "item": "minecraft:bone"
     }
   },
-
   "result":
   {
-    "item": "twilightforest:twilight_scepter",
+    "id": "twilightforest:twilight_scepter",
     "count": 1
   }
 }

@@ -1,28 +1,25 @@
 {
   "type": "minecraft:crafting_shaped",
-
   "pattern":
   [
-    "1",
-    "2",
-    "1"
+    "A",
+    "B",
+    "A"
   ],
-
   "key":
   {
-    "1":
+    "A":
     {
       "item": "twilightforest:carminite"
     },
-    "2":
+    "B":
     {
       "item": "minecraft:redstone"
     }
   },
-
   "result":
   {
-    "item": "twilightforest:tower_key",
+    "id": "twilightforest:tower_key",
     "count": 2
   }
 }

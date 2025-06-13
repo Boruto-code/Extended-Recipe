@@ -2,24 +2,24 @@
   "type": "minecraft:crafting_shaped",
   "pattern":
   [
-    "222",
-    "212",
-    "222"
+    "BBB",
+    "BAB",
+    "BBB"
   ],
   "key":
   {
-    "1":
+    "A":
     {
       "item": "twilightforest:magic_map_focus"
     },
-    "2":
+    "B":
     {
       "item": "minecraft:oak_log"
     }
   },
   "result":
   {
-    "item": "twilightforest:maze_map_focus",
+    "id": "twilightforest:maze_map_focus",
     "count": 1
   }
 }

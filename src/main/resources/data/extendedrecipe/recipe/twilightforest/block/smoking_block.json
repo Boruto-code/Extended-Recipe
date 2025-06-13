@@ -1,31 +1,28 @@
 {
     "type": "minecraft:crafting_shaped",
-  
     "pattern":
     [
-      "323",
-      "212",
-      "323"
+      "CBC",
+      "BAB",
+      "CBC"
     ],
-  
     "key":
     {
-      "1":
+      "A":
       {
         "item": "minecraft:grass"
       },
-      "2":
+      "B":
       {
         "item": "minecraft:coal"
       },
-      "3":
+      "C":
       {
         "item": "minecraft:black_dye"
       }
     },
-  
     "result":
     {
-      "item": "twilightforest:encased_fire_jet"
+      "id": "twilightforest:encased_fire_jet"
     }
   }

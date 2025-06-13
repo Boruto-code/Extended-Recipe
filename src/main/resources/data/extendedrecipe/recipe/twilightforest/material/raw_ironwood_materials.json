@@ -1,24 +1,18 @@
 {
   "type": "minecraft:crafting_shapeless",
   "result": {
-    "item": "twilightforest:ironwood_raw",
+    "id": "twilightforest:ironwood_raw",
     "count": 9
   },
   "ingredients": [
-    [
-      {
-        "item": "twilightforest:root"
-      }
-    ],
-    [
-      {
-        "item": "minecraft:iron_block"
-      }
-    ],
-    [
-      {
-        "item": "minecraft:gold_ingot"
-      }
-    ]
+    {
+      "item": "twilightforest:root"
+    },
+    {
+      "item": "minecraft:iron_block"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
   ]
 }

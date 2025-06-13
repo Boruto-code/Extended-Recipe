@@ -2,24 +2,24 @@
   "type": "minecraft:crafting_shaped",
   "pattern":
   [
-    "222",
-    "212",
-    "222"
+    "BBB",
+    "BAB",
+    "BBB"
   ],
   "key":
   {
-    "1":
+    "A":
     {
       "type": "minecraft:white_wool"
     },
-    "2":
+    "B":
     {
       "item": "twilightforest:arctic_fur"
     }
   },
   "result":
   {
-    "item": "twilightforest:alpha_fur",
+    "id": "twilightforest:alpha_fur",
     "count": 4
   }
 }

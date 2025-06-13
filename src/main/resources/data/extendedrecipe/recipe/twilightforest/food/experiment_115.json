@@ -1,28 +1,25 @@
 {
     "type": "minecraft:crafting_shaped",
-  
     "pattern":
     [
-      "222",
-      "111",
-      "222"
+      "BBB",
+      "AAA",
+      "BBB"
     ],
-  
     "key":
     {
-      "1":
+      "A":
       {
         "item": "twilightforest:torchberries"
       },
-      "2":
+      "B":
       {
         "item": "twilightforest:maze_wafer"
       }
     },
-  
     "result":
     {
-      "item": "twilightforest:experiment_115",
+      "id": "twilightforest:experiment_115",
       "count": 15
     }
   }

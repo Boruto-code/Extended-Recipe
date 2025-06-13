@@ -2,26 +2,24 @@
   "type": "minecraft:crafting_shaped",
   "pattern":
   [
-    "222",
-    "212",
-    "222"
+    "BBB",
+    "BAB",
+    "BBB"
   ],
-
   "key":
   {
-    "1":
+    "A":
     {
       "item": "minecraft:feather"
     },
-    "2":
+    "B":
     {
       "item": "minecraft:black_dye"
     }
   },
-
   "result":
   {
-    "item": "twilightforest:raven_feather",
+    "id": "twilightforest:raven_feather",
     "count": 1
   }
 }

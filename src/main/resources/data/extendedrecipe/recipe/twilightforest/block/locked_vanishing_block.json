@@ -1,29 +1,25 @@
 {
   "type": "minecraft:crafting_shaped",
-
   "pattern":
   [
-    "121",
-    "232",
-    "121"
+    "ABA",
+    "BCB",
+    "ABA"
   ],
-
   "key": {
-    "1": {
+    "A": {
       "item": "twilightforest:tower_wood"
     },
-    "2": {
+    "B": {
       "item": "twilightforest:tower_key"
     },
-    "3":
+    "C":
     {
       "item": "twilightforest:carminite"
     }
   },
-
-  "result":
-  {
-    "item": "twilightforest:tower_device",
+  "result": {
+    "id": "twilightforest:tower_device",
     "count": 1
   }
 }

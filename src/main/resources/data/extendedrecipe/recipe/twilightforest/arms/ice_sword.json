@@ -1,28 +1,25 @@
 {
   "type": "minecraft:crafting_shaped",
-
   "pattern":
   [
-    "2",
-    "2",
-    "1"
+    "B",
+    "B",
+    "A"
   ],
-
   "key":
   {
-    "1":
+    "A":
     {
       "item": "minecraft:stick"
     },
-    "2":
+    "B":
     {
       "item": "minecraft:ice"
     }
   },
-
   "result":
   {
-    "item": "twilightforest:ice_sword",
+    "id": "twilightforest:ice_sword",
     "count": 1
   }
 }

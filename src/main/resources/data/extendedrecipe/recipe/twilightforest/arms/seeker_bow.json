@@ -1,36 +1,33 @@
 {
   "type": "minecraft:crafting_shaped",
-
   "pattern":
   [
-    "314",
-    "121",
-    "413"
+    "CAD",
+    "ABA",
+    "DAC"
   ],
-
   "key":
   {
-    "1":
+    "A":
     {
       "item": "minecraft:arrow"
     },
-    "2":
+    "B":
     {
       "item": "minecraft:bow"
     },
-    "3":
+    "C":
     {
       "item": "minecraft:diamond"
     },
-    "4":
+    "D":
     {
       "item": "minecraft:ender_eye"
     }
   },
-
   "result":
   {
-    "item": "twilightforest:seeker_bow",
+    "id": "twilightforest:seeker_bow",
     "count": 1
   }
 }

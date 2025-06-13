@@ -1,32 +1,29 @@
 {
   "type": "minecraft:crafting_shaped",
-
   "pattern":
   [
-    "232",
-    "313",
-    "232"
+    "BCB",
+    "CAC",
+    "BCB"
   ],
-
   "key":
   {
-    "1":
+    "A":
     {
       "item": "minecraft:wheat_seeds"
     },
-    "2":
+    "B":
     {
       "item": "minecraft:bone_block"
     },
-    "3":
+    "C":
     {
       "item": "twilightforest:transformation_powder"
     }
   },
-
   "result":
   {
-    "item": "twilightforest:magic_beans",
+    "id": "twilightforest:magic_beans",
     "count": 1
   }
 }

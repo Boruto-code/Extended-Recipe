@@ -1,34 +1,31 @@
 {
   "type": "minecraft:crafting_shaped",
-
   "pattern":
   [
-    "323",
-    "212",
-    "323"
+    "CBC",
+    "BAB",
+    "CBC"
   ],
-
   "key":
   {
-    "1":
+    "A":
     {
       "item": "minecraft:totem_of_undying"
     },
-    "2":
+    "B":
     {
       "item": "minecraft:golden_apple",
       "data": 0
     },
-    "3":
+    "C":
     {
       "item": "minecraft:golden_apple",
       "data": 1
     }
   },
-
   "result":
   {
-    "item": "twilightforest:charm_of_life_1",
+    "id": "twilightforest:charm_of_life_1",
     "count": 2
   }
 }

@@ -1,28 +1,25 @@
 {
   "type": "minecraft:crafting_shaped",
-
   "pattern":
   [
-    " 1 ",
-    "121",
-    " 1 "
+    " A ",
+    "ABA",
+    " A "
   ],
-
   "key":
   {
-    "1":
+    "A":
     {
       "item": "twilightforest:ice_bomb"
     },
-    "2":
+    "B":
     {
       "item": "minecraft:bow"
     }
   },
-
   "result":
   {
-    "item": "twilightforest:ice_bow",
+    "id": "twilightforest:ice_bow",
     "count": 1
   }
 }
