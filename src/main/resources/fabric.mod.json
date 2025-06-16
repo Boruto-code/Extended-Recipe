@@ -1,15 +1,16 @@
 {
   "schemaVersion": 1,
   "id": "extendedrecipe",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0-alpha.3",
   "name": "Extended Recipe",
   "description": "Extended Recipes.",
   "authors": [
     "Hamburger0abcde"
   ],
   "contact":{
-    "sources":"https://github.com/Boruto-code/Extended-Recipe",
-    "issues":"https://github.com/Boruto-code/Extended-Recipe/issues"
+    "home": "https://www.curseforge.com/minecraft/mc-mods/extended-recipe",
+    "sources": "https://github.com/Boruto-code/Extended-Recipe",
+    "issues": "https://github.com/Boruto-code/Extended-Recipe/issues"
   },
   "license":"MIT",
   "icon":"pack.png",

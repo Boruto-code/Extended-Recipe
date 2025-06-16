@@ -23,7 +23,7 @@ license="MIT"
 modId="extendedrecipe" #mandatory
 
 # The version number of the mod
-version="1.0.0-alpha.2" #mandatory
+version="1.0.0-alpha.3" #mandatory
 
 # A display name for the mod
 displayName="Extended Recipe" #mandatory
