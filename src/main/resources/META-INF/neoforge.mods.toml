@@ -23,7 +23,7 @@ license="MIT"
 modId="extendedrecipe" #mandatory
 
 # The version number of the mod
-version="1.0.0-alpha.3" #mandatory
+version="1.0.0-beta.1" #mandatory
 
 # A display name for the mod
 displayName="Extended Recipe" #mandatory
@@ -44,7 +44,7 @@ displayName="Extended Recipe" #mandatory
 authors="Hamburger0abcde" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
-description='''Some New Recipes'''
+description='''Some Utility Recipes'''
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.
 #[[mixins]]
